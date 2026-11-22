@@ -1,0 +1,1 @@
+Create `hr_attrition_eda.ipynb` with data quality checks, attrition-rate definition, aggregate comparisons, visualizations, and limitations.\n

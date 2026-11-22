@@ -1,0 +1,1 @@
+Add a public HR dataset. Record source URL, license, download date, and data dictionary. Never upload confidential company records or identifiable employee data.\n

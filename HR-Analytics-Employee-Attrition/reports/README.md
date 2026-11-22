@@ -1,0 +1,1 @@
+Summarize verified aggregate patterns, limitations, and responsible recommendations. Avoid unsupported causal claims.\n
